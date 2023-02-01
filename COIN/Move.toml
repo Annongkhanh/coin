@@ -1,5 +1,5 @@
 [package]
-name = 'ekoios_coin'
+name = 'EkoiosCoin'
 version = '1.0.0'
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core.git'
